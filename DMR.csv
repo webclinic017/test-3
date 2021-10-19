@@ -1,0 +1,404 @@
+DMR Number,Part,Job Number,Lot Number,Product Group,Total Discrepant Qty,Total Accepted Qty,Total Rejected Qty,Supplier ID,Sys Date,Description,Class,DefGroup
+16691,FC375P1,83586,20191016,AERO:Fittings - PO,30,0,30,,8/30/2021,OTH: Other,AERO:Bulk Casing/Tube,OTH
+16237,FAGOO28BPZ1,,79886,AERO:Assembly - UTAS,71,71,0,,1/7/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16240,FABEE11DZ1,77716,,AERO:Assembly - Group 1,6,6,0,,1/4/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16241,FABEE11DZ1,77716,,AERO:Assembly - Group 1,1,1,0,,1/7/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16244,FALYS01BZ2,81042,,AERO:Assembly - Group 1,12,12,0,,1/4/2021,"OTH: Part, Revision",AERO:Finished Assy,OTH
+16245,FAFLU11KX1,80723,,AERO:Assembly - Honeywell,500,500,0,,1/11/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16246,FAGOO28BNZ1,,79887,AERO:Assembly - UTAS,31,31,0,,1/8/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16247,FAGOO28BNZ1,,79887,AERO:Assembly - UTAS,45,45,0,,1/11/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16250,FAGOO28BPZ1,,77473,AERO:Assembly - UTAS,1,0,1,,1/12/2021,OTH: Other,AERO:Finished Assy,OTH
+16260,FAFLU11KX1,80723,,AERO:Assembly - Honeywell,1700,1700,0,,1/15/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16265,FM693Z,80976,80976,AERO:Fittings - FL,1,0,1,BDI11,1/18/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16268,FAALL28AX1,80714,,AERO:Assembly - Honeywell,2,0,2,,1/19/2021,OTH: Other,AERO:Finished Assy,OTH
+16269,FABEE11EZ2,80938,,AERO:Assembly - Group 1,2,0,2,,1/18/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16270,FAGOO28BMZ1,81199,,AERO:Assembly - UTAS,24,0,24,,1/5/2021,FUN: TTR/DTTR,AERO:Finished Assy,FUN
+16277,FAFLU11CQZ1,,0077754R2,AERO:Assembly - Honeywell,4,4,0,,1/22/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16278,FAFLU11CQZ1,,77754,AERO:Assembly - Honeywell,17,9,8,,1/22/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16279,FAGOO28APX1,81682,,AERO:Assembly - UTAS,10,0,10,,1/21/2021,COS: Rust,AERO:Finished Assy,COS
+16280,FAGOO28BMU1,,79311,AERO:Assembly - UTAS,275,0,275,,1/15/2021,FUN: TTR/DTTR,AERO:Finished Assy,FUN
+16282,FAGOO28BLZ1,,79885,AERO:Assembly - UTAS,31,31,0,,1/22/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16284,FAGOO28BLZ1,0081198R1,81198,AERO:Assembly - UTAS,49,49,0,,1/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16287,FAGOO28APX2,81683,,AERO:Assembly - UTAS,1,0,1,,1/26/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16290,FAGOO28BLZ1,,78717,AERO:Assembly - UTAS,1,0,1,,1/27/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16296,FAPAR12ACZ2,81916,,AERO:Assembly - Group 1,1,0,1,,1/27/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16297,FAALL28AX1,80714,,AERO:Assembly - Honeywell,2,0,2,,1/28/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16298,FABEE11EZ2,81870,,AERO:Assembly - Group 1,1,0,1,,1/27/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16304,FASIK11AZ1,80718,,AERO:Assembly - Group 1,20,0,20,,1/28/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16306,FASIK11AZ1,81854,,AERO:Assembly - Group 1,33,0,33,,1/28/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16309,FM693Z,80858,80858,AERO:Fittings - FL,1,0,1,BDI11,1/29/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16310,FADEC11FZ1,78009,,AERO:Assembly - Group 2,51,51,0,,2/2/2021,OTH: Other,AERO:Finished Assy,OTH
+16311,FAFLU11KX1,,80026,AERO:Assembly - Honeywell,198,198,0,,2/2/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16312,FAFLU11KX1,,80026,AERO:Assembly - Honeywell,198,198,0,,2/2/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16313,FAFLU11KX1,,80026,AERO:Assembly - Honeywell,2178,2178,0,,2/2/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16320,FAWOO23KY1,81319,,AERO:Assembly - Woodward,1,0,1,,1/26/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16321,FAWOO23EX2,81960,,AERO:Assembly - Woodward,7,0,7,,2/2/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16324,FAWOO23HY2U,81961,20200702,AERO:Assembly - Woodward,1,0,1,,1/27/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16332,FM693Z,80976,80976,AERO:Fittings - FL,6,0,6,SER13,2/18/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16333,FAWOO23KY1,,77237,AERO:Assembly - Woodward,1,0,1,,2/18/2021,OTH: Other,AERO:Finished Assy,OTH
+16336,FM692Z,0078942R1,,AERO:Fittings - FL,1,0,1,,2/18/2021,OTH: Other,AERO:Finished Assy,OTH
+16339,FM693Z,80976,,AERO:Fittings - FL,6,0,6,,2/16/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16340,FAGOO28BLZ1,0081198r1,,AERO:Assembly - UTAS,3,3,0,,2/16/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16341,FAGOO28BMZ1,81199,,AERO:Assembly - UTAS,2,2,0,,2/19/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16342,FM689Z,79464,,AERO:Fittings - FL,1,0,1,,2/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16344,FAWOO23HY2U,,20200811,AERO:Assembly - Woodward,1,0,1,,2/18/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16345,FM689Z,79464,79464,AERO:Fittings - FL,1,0,1,BDI11,2/22/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16346,FM692Z,0078942R1,0078942R1,AERO:Fittings - FL,1,0,1,BDI11,2/22/2021,DIM: Thread,AERO:Finished Assy,DIM
+16352,FADEF13AZ2,79963,,AERO:Assembly - Group 3,1,0,1,,2/23/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16356,FAFLU11KX1,,80587,AERO:Assembly - Honeywell,4158,4158,0,,3/1/2021,OTH: Other,AERO:Finished Assy,OTH
+16366,FAALL28AX1,80714,,AERO:Assembly - Honeywell,2,0,2,,3/1/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16369,FAWOO23KY1,81372,,AERO:Assembly - Woodward,6,0,6,AER21,3/9/2021,OTH: Other,AERO:Finished Assy,OTH
+16373,FAWOO23KY1,81961,81961,AERO:Assembly - Woodward,2,0,2,AER21,3/15/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16379,FAGOO28BLZ1,82217,,AERO:Assembly - UTAS,2,0,2,,3/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16382,FACES11AZ1,82335,,AERO:Assembly - Group 1,1,0,1,,3/15/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16388,FAGOO28AQX1,82333,,AERO:Assembly - UTAS,28,28,0,,3/19/2021,"DIM: Swage, Length/Form",AERO:Finished Assy,DIM
+16391,FM693Z,82054,82054,AERO:Fittings - FL,3,0,3,BDI11,3/23/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16392,FAWOO23KY1,82190,82190,AERO:Assembly - Woodward,1,0,1,AER21,3/23/2021,OTH: Other,AERO:Finished Assy,OTH
+16393,FAUNI115AZ1,82422,,AERO:Assembly - Group 1,1,0,1,,3/23/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16394,FABEE11JZ2,,79541,AERO:Assembly - Group 1,1,0,1,,3/24/2021,OTH: Other,AERO:Finished Assy,OTH
+16395,FABEE11KZ2,,76899,AERO:Assembly - Group 1,1,0,1,,3/24/2021,OTH: Other,AERO:Finished Assy,OTH
+16396,FABEE11CZ1,,76730,AERO:Assembly - Group 1,1,0,1,,3/24/2021,OTH: Other,AERO:Finished Assy,OTH
+16397,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,396,396,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16398,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,66,66,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16399,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,198,198,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16400,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,198,198,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16401,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,198,198,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16402,FAFLU11KX1,,80723,AERO:Assembly - Honeywell,594,594,0,,3/25/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16404,FAWOO23EX2,82260,,AERO:Assembly - Woodward,18,16,2,,3/24/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16408,FAALL28AX1,81117,,AERO:Assembly - Honeywell,100,0,100,JOI11,3/26/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16415,FAGOO28BMZ1,82218,,AERO:Assembly - UTAS,2,2,0,,3/31/2021,OTH: Material/Sub-component,AERO:Finished Assy,OTH
+16428,FABOE12AZ2,82346,,AERO:Assembly - Group 1,3,0,3,,4/5/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16432,FADRS11GZ1,82270,,AERO:Assembly - Group 1,11,11,0,,4/5/2021,OTH: Other,AERO:Finished Assy,OTH
+16436,FABOE12AZ1,82537,,AERO:Assembly - Group 1,1,0,1,,4/8/2021,OTH: Material/Sub-component,AERO:Finished Assy,OTH
+16440,FAWOO23KY1,81961,,AERO:Assembly - Woodward,1,0,1,AER21,3/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16443,FAGOO28BNZ1,82353,,AERO:Assembly - UTAS,5,5,0,,4/12/2021,OTH: Other,AERO:Finished Assy,OTH
+16445,FAPAR12GZ1,0069314R2,,AERO:Assembly - Group 1,1,0,1,,4/15/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16449,FAGOO28BNZ1,82353,,AERO:Assembly - UTAS,4,0,4,,4/15/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16450,FAFLU11NZ1,78380,,AERO:Assembly - Honeywell,10,0,10,,4/13/2021,FUN: TTR/DTTR,AERO:Finished Assy,FUN
+16451,FM693Z,0072616R2,0072616R2,AERO:Fittings - FL,1,0,1,SER13,4/20/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16452,FM693Z,0077868R2,0077868R2,AERO:Fittings - FL,5,0,5,SER13,4/20/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16453,FM693Z,72614,72614,AERO:Fittings - FL,2,0,2,SER13,4/20/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16458,FADEC11AGZ1,77249,,AERO:Assembly - Group 2,10,0,10,,4/23/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16459,FAPAR12ACZ1,82393,,AERO:Assembly - Group 1,42,42,0,,4/16/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16460,FAPAR12ADZ2,82394,,AERO:Assembly - Group 1,42,42,0,,4/20/2021,OTH: Other,AERO:Finished Assy,OTH
+16462,FAWOO23KY1,,81372,AERO:Assembly - Woodward,5,0,5,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16463,FAWOO23KY1,,81372,AERO:Assembly - Woodward,1,0,1,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16466,FAWOO23KY1,,81723,AERO:Assembly - Woodward,8,0,8,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16467,FAWOO23KY1,,81723,AERO:Assembly - Woodward,6,0,6,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16470,FAMAM11AZ1,82546,,AERO:Assembly - Group 3,5,0,5,,4/27/2021,FUN: TTR/DTTR,AERO:Finished Assy,FUN
+16471,FAWOO23KY1,,81961,AERO:Assembly - Woodward,1,0,1,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16472,FAWOO23KY1,,81961,AERO:Assembly - Woodward,2,0,2,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16473,FAWOO23KY1,,82190,AERO:Assembly - Woodward,1,0,1,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16474,FAWOO23KY1,,82190,AERO:Assembly - Woodward,5,0,5,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16475,FAWOO23KY1,,82190,AERO:Assembly - Woodward,6,0,6,,4/26/2021,OTH: Other,AERO:Finished Assy,OTH
+16476,FADOW13AX3,82579,,AERO:Assembly - Group 1,17,0,17,,4/29/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16481,FABEE11JZ2,82262,,AERO:Assembly - Group 1,1,0,1,,5/6/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16486,FAALL28CX1,82609,,AERO:Assembly - Honeywell,3,0,3,,4/27/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16487,FAALL28CX1,82609,,AERO:Assembly - Honeywell,2,0,2,,5/10/2021,"DIM: Swage, Length/Form",AERO:Finished Assy,DIM
+16495,FATEL19BZ1,82400,,AERO:Assembly - Group 3,12,0,12,,5/7/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16496,FAGOO28APX1,,79100,AERO:Assembly - UTAS,3,0,3,,4/30/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16498,FAGOO28APX2,,79986,AERO:Assembly - UTAS,2,0,2,,4/30/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16500,FM692Z,72611,72611,AERO:Fittings - FL,6,5,1,JOI11,5/14/2021,OTH: Other,AERO:Finished Assy,OTH
+16510,FAWOO23KY1,,81372,AERO:Assembly - Woodward,3,0,3,,5/19/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16511,FAWOO23KY1,,81372,AERO:Assembly - Woodward,2,0,2,,5/19/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16512,FAWOO23KY1,,81319,AERO:Assembly - Woodward,1,0,1,,5/20/2021,FUN: Other,AERO:Finished Assy,FUN
+16514,FAWOO23KY1,,81372,AERO:Assembly - Woodward,3,0,3,,5/20/2021,FUN: Other,AERO:Finished Assy,FUN
+16515,FAWOO23KY1,,81372,AERO:Assembly - Woodward,2,0,2,,5/20/2021,FUN: Other,AERO:Finished Assy,FUN
+16522,FAWOO23KY1,81723,,AERO:Assembly - Woodward,2,0,2,,3/15/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16534,FAFLU15FZ1,82991,,AERO:Assembly - Honeywell,3,0,3,,5/21/2021,FUN: Proof Load,AERO:Finished Assy,FUN
+16543,FADEC11AGZ1,77249,77249,AERO:Assembly - Group 2,65,65,0,,6/8/2021,OTH: Other,AERO:Finished Assy,OTH
+16544,FADEC11AGZ2,77251,77251,AERO:Assembly - Group 2,75,75,0,,6/8/2021,OTH: Other,AERO:Finished Assy,OTH
+16546,FAFLU11CEZ1,80161,,AERO:Assembly - Honeywell,3,0,3,,6/7/2021,"DIM: Swage, Length/Form",AERO:Finished Assy,DIM
+16547,FAALL28AX1,81117,,AERO:Assembly - Honeywell,6,0,6,,6/9/2021,OTH: Other,AERO:Finished Assy,OTH
+16567,FABEE11BZ1,83018,,AERO:Assembly - Group 1,40,40,0,,6/21/2021,FUN: Proof Load,AERO:Finished Assy,FUN
+16573,FAWOO23KY1,,81319,AERO:Assembly - Woodward,10,0,10,,6/25/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16574,FABEE11JZ2,82842,,AERO:Assembly - Group 1,1,0,1,,6/25/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16576,FM692Z,81595,81595,AERO:Fittings - FL,22,0,22,BDI11,6/28/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16578,FAWOO23AX1,83120,,AERO:Assembly - Woodward,2,0,2,,6/28/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16586,FASIK11AZ1,82041,,AERO:Assembly - Group 1,1,0,1,,6/29/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16588,FAWOO23KY1,82488,,AERO:Assembly - Woodward,1,0,1,AER21,6/16/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16589,FAWOO23KY1,83031,,AERO:Assembly - Woodward,2,0,2,,7/1/2021,OTH: Other,AERO:Finished Assy,OTH
+16599,FM692Z,81595,,AERO:Fittings - FL,22,0,0,,6/21/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16603,FAGOO28APX1,,79100,AERO:Assembly - UTAS,1,0,1,,7/8/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16604,FAFLU15GZ3,,74978,AERO:Assembly - Honeywell,17,17,0,,7/9/2021,FUN: Other,AERO:Finished Assy,FUN
+16605,FAFLU15GZ4,,74977,AERO:Assembly - Honeywell,47,47,0,,7/9/2021,FUN: Other,AERO:Finished Assy,FUN
+16609,FAGOO28BPZ1,,79886,AERO:Assembly - UTAS,1,0,0,,7/12/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16611,FAFLU11SZ1,83275,,AERO:Assembly - Honeywell,5,0,5,,7/9/2021,OTH: Material/Sub-component,AERO:Finished Assy,OTH
+16613,FATEL19BZ1,83210,,AERO:Assembly - Group 3,24,0,24,,7/8/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16614,FADEC11AGZ1,77249,,AERO:Assembly - Group 2,6,6,0,,7/13/2021,"DIM: Swage, Length/Form",AERO:Finished Assy,DIM
+16616,FAGOO28BKX1,82305,,AERO:Assembly - UTAS,11,0,11,,7/14/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16617,FAWOO23AX1,83299,,AERO:Assembly - Woodward,10,0,10,,7/15/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16618,FM693Z,83275,0072616R2,AERO:Fittings - FL,5,0,5,,7/14/2021,OTH: Other,AERO:Finished Assy,OTH
+16624,FADEC11AHZ1,77516,,AERO:Assembly - Group 2,50,0,50,,7/15/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16626,FABEE11JZ2,82842,,AERO:Assembly - Group 1,3,3,0,,7/20/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16628,FAMAM11AZ1,82621,,AERO:Assembly - Group 3,11,11,0,,7/29/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16629,FAWOO23KY1,,81319,AERO:Assembly - Woodward,4,0,4,,7/30/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16638,FAFLU11ACZ1,,28565,AERO:Assembly - Honeywell,3,0,3,,8/5/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16639,FAFLU11CQZ1,,77472,AERO:Assembly - Honeywell,1,0,1,,8/5/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16640,FANAT19CX1,,48816,AERO:Assembly - Group 1,4,0,4,,8/5/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16641,FM692Z,,78453,AERO:Fittings - FL,3,0,3,,8/5/2021,OTH: Re-inspect Inventory,AERO:Finished Assy,OTH
+16655,FM689Z,81596,81596,AERO:Fittings - FL,50,50,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16656,FM689Z,81596,81596,AERO:Fittings - FL,50,50,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16657,FM692Z,0072611R1,0072611R1,AERO:Fittings - FL,5,5,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16658,FM689Z,0078421R1,0078421R1,AERO:Fittings - FL,6,6,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16659,FM692Z,81595,81595,AERO:Fittings - FL,50,50,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16660,FM692Z,81595,81595,AERO:Fittings - FL,50,50,0,,8/6/2021,VEN: Vendor Issue,AERO:Finished Assy,VEN
+16668,FAGOO28BKX1,82463,,AERO:Assembly - UTAS,200,0,0,,8/10/2021,COS: Rust,AERO:Finished Assy,COS
+16669,FAGOO28APX2,83327,,AERO:Assembly - UTAS,57,56,1,,8/10/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16673,FABOE12AZ2,83499,,AERO:Assembly - Group 1,1,0,1,,8/13/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16678,FADOW13AX3,82582,,AERO:Assembly - Group 1,150,0,150,,8/18/2021,COS: Rust,AERO:Finished Assy,COS
+16680,FAWOO23AX1,83644,,AERO:Assembly - Woodward,14,0,14,,8/24/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16684,FADEC11NZ2,83586,,AERO:Assembly - Group 2,2,2,0,,8/27/2021,FUN: Proof Load,AERO:Finished Assy,FUN
+16685,FADOW13AX3,82583,,AERO:Assembly - Group 1,1,0,1,,8/27/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16686,FAGOO28APX2,0083327R1,,AERO:Assembly - UTAS,15,15,0,,8/26/2021,DIM: Dimensional,AERO:Finished Assy,DIM
+16687,FAWOO23AX1,,79096,AERO:Assembly - Woodward,2,2,0,,8/27/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16688,FAWOO23AX1,,83299,AERO:Assembly - Woodward,80,79,1,,8/27/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16693,FADOW13AX3,82583,,AERO:Assembly - Group 1,1,0,1,,8/31/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16696,FAWOO23AX1,83644,,AERO:Assembly - Woodward,15,15,0,,8/31/2021,FUN: Deflection,AERO:Finished Assy,FUN
+16705,FAALL28AX1,83406,,AERO:Assembly - Honeywell,43,22,21,,9/7/2021,"DIM: Swage, Length/Form",AERO:Finished Assy,DIM
+16706,FAGOO28APX2,83327,,AERO:Assembly - UTAS,1,0,1,,9/9/2021,"COS: Wires, Open/Raised/Broken",AERO:Finished Assy,COS
+16708,FAWOO23KY1,83122,,AERO:Assembly - Woodward,1,0,1,,9/8/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16709,FAWOO23KY1,83321,,AERO:Assembly - Woodward,1,0,1,AER21,9/8/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16710,FAWOO23KY1,83122,,AERO:Assembly - Woodward,2,0,2,,9/2/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16711,FAWOO23KY1,83321,,AERO:Assembly - Woodward,35,0,35,,7/21/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16712,FAWOO23KY1,83031,,AERO:Assembly - Woodward,2,0,2,,7/2/2021,OTH: Other,AERO:Finished Assy,OTH
+16718,FAWOO23AX1,,70943,AERO:Assembly - Woodward,1,0,0,,9/15/2021,FUN: Other,AERO:Finished Assy,FUN
+16721,FAWOO23KY1,83122,,AERO:Assembly - Woodward,1,0,1,AER21,9/16/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16724,FAFLU15GZ4,,78651,AERO:Assembly - Honeywell,1,1,0,,9/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16725,FAFLU15GZ4,,78651,AERO:Assembly - Honeywell,1,1,0,,9/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16726,FAFLU15GZ4,,78651,AERO:Assembly - Honeywell,1,1,0,,9/17/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16730,FACUR15AZ1,,0077214R1,AERO:Assembly - Group 1,1,1,0,,9/22/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16738,FAWOO23HY2U,83742,20210603,AERO:Assembly - Woodward,2,0,2,AER21,9/28/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16743,FAWOO23HY2U,,20210603,AERO:Assembly - Woodward,38,0,0,,8/27/2021,COS: Scratches/Dents,AERO:Finished Assy,COS
+16750,FADEC11AGZ2,83836,,AERO:Assembly - Group 2,17,0,0,,9/27/2021,MAR: Marking/Labeling,AERO:Finished Assy,MAR
+16692,FLBL126,83586,20200401,Flex Aircraft Flex FL,35,0,35,,8/30/2021,OTH: Other,AERO:Flex Labels/Tags,OTH
+16355,FG152X1,80698,,AERO:Fittings - FL,1,0,1,,2/25/2021,OTH: Other,AERO:Flex Sub-assembly,OTH
+16374,FG131,81849,81849,AERO:Fittings - FL,12,0,12,HAR18,3/16/2021,MAR: Marking/Labeling,AERO:Flex Sub-assembly,MAR
+16251,FM690DF,,20200918,AERO:Fittings - FL,48,0,48,FLU11,1/6/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16262,FM690DF,,20201102,AERO:Fittings - FL,454,0,454,,1/6/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16263,FM690DF,,20201105,AERO:Fittings - FL,525,0,525,,1/6/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16264,FM690DF,,20200818,AERO:Fittings - FL,86,0,86,,1/6/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16266,FM690DF,,20200918,AERO:Fittings - FL,116,0,116,,1/18/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16271,FM225X1,80919,,AERO:Fittings - FL,1,0,1,,1/19/2021,OTH: Other,AERO:Metal Fittings,OTH
+16274,FN355,,54599,AERO:Fittings - SN,3,0,3,,1/20/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16319,FE551,81876,,AERO:Fittings - FL,2,0,2,,1/29/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16325,FM1266,80620,,AERO:Fittings - SN,644,644,0,,2/8/2021,OTH: Material/Sub-component,AERO:Metal Fittings,OTH
+16343,FT1903,81287,,AERO:Assembly - Group 1,41,41,0,,2/8/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16348,FT1903,0081287R1,,AERO:Assembly - Group 1,6,0,6,,2/24/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16370,FB734,,80692,AERO:Fittings - FL,2,2,0,,3/8/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16371,FB734,82269,80692,AERO:Fittings - FL,43,43,0,HAR18,3/8/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16376,FFLA122,,77004,AERO:Fittings - FL,400,0,400,,3/15/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16377,FFLA122,,77004,AERO:Fittings - FL,280,0,280,,3/15/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16378,FFLA122,,77004,AERO:Fittings - FL,1200,0,1200,,3/15/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16405,FM692,81886,20200909,AERO:Fittings - PO,15,0,15,,3/16/2021,OTH: Other,AERO:Metal Fittings,OTH
+16413,FT1851,81959,81744,AERO:Fittings - SN,247,247,0,,4/1/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16414,FT1851,,81744,AERO:Fittings - SN,15,15,0,,4/1/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16416,FE1101,82109,82109,AERO:Fittings - FL,44,44,0,PTI11,4/2/2021,OTH: Packing/Shipping Issue,AERO:Metal Fittings,OTH
+16417,FFLA123,82353,0078238R1,AERO:Fittings - FL,44,0,44,,3/26/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16418,FE208,,0065418R1,AERO:Fittings - SN,221,0,221,,3/15/2021,COS: Rust,AERO:Metal Fittings,COS
+16419,FE1182,,78237,AERO:Fittings - SN,20,0,20,,3/23/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16420,FE1182,,75872,AERO:Fittings - SN,416,0,416,MIL14,3/23/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16421,FE1182,,78237,AERO:Fittings - SN,72,0,72,,3/23/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16422,FT1963,77516,20191030,AERO:Fittings - PO,50,36,14,,3/25/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16424,FE208,81991,0065418R1,AERO:Fittings - SN,40,0,40,,3/15/2021,COS: Rust,AERO:Metal Fittings,COS
+16425,FE208,81950,0065418R1,AERO:Fittings - SN,40,0,40,,3/15/2021,COS: Rust,AERO:Metal Fittings,COS
+16426,FE208,81943,0065418R1,AERO:Fittings - SN,40,0,40,,3/15/2021,COS: Rust,AERO:Metal Fittings,COS
+16427,FE1182,82353,78237,AERO:Fittings - SN,13,0,13,,3/26/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16430,FE1182,79587,79587,AERO:Fittings - SN,700,0,700,MIL14,4/6/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16438,FT1045,79603,,AERO:Fittings - SN,14,0,14,FOR23,4/7/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16444,FM1266,0080620R1,0080620R1,AERO:Fittings - SN,643,486,157,EMB11,4/14/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16446,FE848,82288,82288,AERO:Fittings - SN,103,103,0,,4/16/2021,OTH: Packing/Shipping Issue,AERO:Metal Fittings,OTH
+16456,FE499,82071,82071,AERO:Fittings - SN,18,0,18,SSW15,4/22/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16461,FE1101,82109,,AERO:Fittings - FL,7,7,0,,4/22/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16464,FT1953,82296,,AERO:Fittings - FL,41,0,41,,4/26/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16482,FT1227,80846,80846,AERO:Fittings - FL,20,0,20,SSW15,5/7/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16483,FT461,82559,82415,AERO:Fittings - SN,63,0,63,BEN12,5/6/2021,VEN: Vendor Issue,AERO:Metal Fittings,VEN
+16485,FT1866,,20210422,AERO:Fittings - SN,30,0,30,SSW15,5/10/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16490,FN421,82394,80658,AERO:Fittings - SN,8,0,8,SSW15,5/6/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16491,FN421,82154,80658,AERO:Fittings - SN,6,0,6,SSW15,5/6/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16492,FN421,82880,80658,AERO:Fittings - SN,72,51,21,SSW15,5/7/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16493,FN421,82881,80658,AERO:Fittings - SN,144,76,68,SSW15,5/7/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16502,FN421,,80658,AERO:Fittings - SN,704,504,200,SSW15,5/7/2021,DIM: Thread,AERO:Metal Fittings,DIM
+16541,FE499,82071,,AERO:Fittings - SN,48,0,48,,5/19/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16542,FT1717,82308,,AERO:Fittings - FL,409,409,0,,6/4/2021,"OTH: Part, Revision",AERO:Metal Fittings,OTH
+16549,FT1757,82257,82257,AERO:Fittings - SN,74,0,74,SSW15,6/10/2021,FUN: Other,AERO:Metal Fittings,FUN
+16556,FM208,82793,82793,AERO:Assembly - Group 1,200,0,200,STG11,6/15/2021,COS: Rust,AERO:Metal Fittings,COS
+16561,FT1757,82259,82259,AERO:Fittings - SN,57,0,57,SSW15,6/21/2021,FUN: Other,AERO:Metal Fittings,FUN
+16564,FM1265,77004,,AERO:Fittings - SN,1880,290,1590,EMB11,6/24/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16569,FT1619,80586,,AERO:Fittings - SN,107,107,0,,6/21/2021,"OTH: Part, Revision",AERO:Metal Fittings,OTH
+16571,FM639,,20120217,AERO:Fittings - FL,40,40,0,,6/15/2021,MAR: Marking/Labeling,AERO:Metal Fittings,MAR
+16577,FE683,,79290,AERO:Fittings - SN,140,16,124,,6/2/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16584,FT1851,82417,82417,AERO:Fittings - SN,46,0,46,SSW15,6/29/2021,FUN: Other,AERO:Metal Fittings,FUN
+16606,FT495,82558,82558,AERO:Fittings - SN,125,122,3,BEN12,7/9/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16607,FT1619,80586,,AERO:Fittings - SN,107,107,0,,7/9/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16615,FT1757,82259,82259,AERO:Fittings - SN,843,843,0,SOL12,7/13/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16621,FM640,,20200623,AERO:Fittings - FL,1,1,0,,7/9/2021,OTH: Other,AERO:Metal Fittings,OTH
+16622,FM640,,20090701,AERO:Fittings - FL,34,34,0,,7/9/2021,OTH: Other,AERO:Metal Fittings,OTH
+16625,FT1575,83326,71195,AERO:Fittings - SN,49,49,0,,7/21/2021,COS: Rust,AERO:Metal Fittings,COS
+16631,FT1851,82417,82417,AERO:Fittings - SN,1285,1285,0,SOL12,8/3/2021,VEN: Vendor Issue,AERO:Metal Fittings,VEN
+16671,FT1650,,79230,AERO:Fittings - SN,1,0,1,,8/11/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16672,FT1650,,79231,AERO:Fittings - SN,1,0,1,,8/11/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16674,FT1610,80580,,AERO:Fittings - SN,30,0,30,,8/11/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16675,FE1107,,0063212R4,AERO:Fittings - SN,201,0,201,,8/17/2021,COS: Scratches/Dents,AERO:Metal Fittings,COS
+16689,FE1107,83586,0063212R4,AERO:Fittings - SN,70,0,70,,8/30/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16699,FM692,,20210902,AERO:Fittings - PO,300,0,300,TUB11,9/3/2021,COS: Rust,AERO:Metal Fittings,COS
+16700,FN373DF,,20200709,AERO:Fittings - FL,68,68,0,,8/13/2021,OTH: Other,AERO:Metal Fittings,OTH
+16701,FN373DF,,20200715,AERO:Fittings - FL,182,182,0,,8/13/2021,OTH: Other,AERO:Metal Fittings,OTH
+16702,FN373DF,,20200824,AERO:Fittings - FL,233,233,0,,8/13/2021,OTH: Other,AERO:Metal Fittings,OTH
+16703,FN373DF,,20210621,AERO:Fittings - FL,228,228,0,,8/13/2021,OTH: Other,AERO:Metal Fittings,OTH
+16704,FM697,,20210901,AERO:Fittings - PO,200,0,200,TUB11,9/3/2021,COS: Rust,AERO:Metal Fittings,COS
+16715,FT512,83532,,AERO:Fittings - SN,1870,1870,0,,9/13/2021,COS: Rust,AERO:Metal Fittings,COS
+16717,FE369,83531,,AERO:Fittings - SN,297,297,0,,9/13/2021,COS: Rust,AERO:Metal Fittings,COS
+16719,FE370,83530,,AERO:Fittings - SN,559,559,0,,9/14/2021,COS: Rust,AERO:Metal Fittings,COS
+16736,FT1963,,81429,AERO:Fittings - PO,13,13,0,,8/9/2021,OTH: Other,AERO:Metal Fittings,OTH
+16737,FT1963,77516,81429,AERO:Fittings - PO,98,98,0,,8/9/2021,OTH: Other,AERO:Metal Fittings,OTH
+16744,FE130,,79547,AERO:Fittings - SN,364,0,0,,9/28/2021,COS: Rust,AERO:Metal Fittings,COS
+16745,FN373DF,,20210923,AERO:Fittings - FL,108,50,0,,9/24/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16746,FN373DF,,20210928,AERO:Fittings - FL,159,0,0,,9/30/2021,COS: Discoloration,AERO:Metal Fittings,COS
+16751,FT1818,82824,,AERO:Fittings - FL,8,0,8,,9/17/2021,VEN: Vendor Issue,AERO:Metal Fittings,VEN
+16752,FT1963,83603,,AERO:Fittings - PO,33,0,33,,9/30/2021,DIM: Dimensional,AERO:Metal Fittings,DIM
+16233,CP127,81628,,AM-PM:Component - Medical:FL,105,105,0,,1/4/2021,COS: Scratches/Dents,AM-PM:Comp. Medical: FL,COS
+16288,LMX082-001,81589,81589,AM-PM:Component - Medical:FL,11,0,11,LUN11,1/27/2021,DIM: Dimensional,AM-PM:Comp. Medical: FL,DIM
+16289,LMX082-001,81589,,AM-PM:Component - Medical:FL,9,0,9,,1/26/2021,DIM: Dimensional,AM-PM:Comp. Medical: FL,DIM
+16314,LMX074-001,81738,81738,AM-PM:Component - Medical:FL,612,612,0,SCH10,2/2/2021,COS: Rust,AM-PM:Comp. Medical: FL,COS
+16642,M3H66339989,,77187,AM-PM:Fin. Item - Medical,3,0,3,,8/5/2021,OTH: Re-inspect Inventory,AM-PM:Finished Item-Medical,OTH
+16643,M3O211181005,,78698,AM-PM:Fin. Item - Medical,1,0,1,,8/5/2021,OTH: Re-inspect Inventory,AM-PM:Finished Item-Medical,OTH
+16275,NL60C3148FY,,20200717,AUTO:Assembly - Top Level,136,0,136,,1/22/2021,OTH: Material/Sub-component,AUTO:Finished Assy,OTH
+16318,NLA1790,81769,,AUTO:Assembly - Top Level,194,0,194,,2/1/2021,DIM: Dimensional,AUTO:Finished Assy,DIM
+16497,NL60C3148FY,,20201130,AUTO:Assembly - Top Level,438,0,438,SSW15,5/12/2021,FUN: Other,AUTO:Finished Assy,FUN
+16545,FAFLE05AU1,83038,,AUTO:Assembly - Top Level,250,250,0,,6/8/2021,DIM: Dimensional,AUTO:Finished Assy,DIM
+16707,NB60W3080FYS,,20210602,AUTO:Assembly - Top Level,500,0,500,SSW15,9/9/2021,MAR: Marking/Labeling,AUTO:Finished Assy,MAR
+16407,ATUB101,,20210122,Flex Automotive Flex FL,28,0,28,HIT12,3/26/2021,DIM: Dimensional,AUTO:Flex Misc,DIM
+16375,MRSS316R16,,20210311,BARSTOCK: ALL,144,144,0,MSM11,3/16/2021,OTH: Material/Sub-component,BARSTOCK:All,OTH
+16748,MRSS44CR13CG,,20210929,BARSTOCK: ALL,10080,0,0,,9/30/2021,COS: Scratches/Dents,BARSTOCK:All,COS
+16494,FC215M1,,20210510,BULK: Casing,100,100,0,ABL11,5/12/2021,OTH: Material/Sub-component,CASING:Bulk-All Other,OTH
+16520,FC325T2,,0081945-1,BULK: Casing,5,0,5,SSW13,5/24/2021,DIM: Dimensional,CASING:Bulk-All Other,DIM
+16521,FC325T2,,0082724-1,BULK: Casing,1850,0,1850,SSW13,5/24/2021,DIM: Dimensional,CASING:Bulk-All Other,DIM
+16749,MRSS44CR17CG,,20210929,CNC BARSTOCK,1152,0,0,,9/30/2021,COS: Scratches/Dents,CNC BARSTOCK,COS
+16292,LMX066-021,81772,,CNC Contract FL,36,36,0,,1/27/2021,DIM: Thread,CNC Contract FL,DIM
+16293,LMX066-021,81772,,CNC Contract FL,2,0,2,,1/29/2021,DIM: Thread,CNC Contract FL,DIM
+16294,LMX066-012,81768,,CNC Contract FL,3,0,3,,1/28/2021,DIM: Dimensional,CNC Contract FL,DIM
+16590,FB224X1,82903,,Flex Aircraft Flex FL,1,0,1,,7/1/2021,DIM: Dimensional,Flex Aircraft Flex FL,DIM
+16592,FAROL11GZ1,83143,,Flex Other Flex FL,1,0,1,,6/30/2021,DIM: Dimensional,Flex Other Flex FL,DIM
+16234,FABET12APX2,81684,,INDUSTRIAL:Assembly - FL,103,0,103,,1/4/2021,OTH: Other,INDUSTRIAL:Finished Assy,OTH
+16238,FABET12APX3,81824,,INDUSTRIAL:Assembly - FL,9,0,9,,1/7/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16239,FACEN15GU1,81262,,INDUSTRIAL:Assembly - FL,1,0,1,,1/4/2021,COS: Rust,INDUSTRIAL:Finished Assy,COS
+16253,FASTO19AU1,81826,,INDUSTRIAL:Assembly - FL,133,0,133,,1/8/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16254,FASTO19AU1,81826,,INDUSTRIAL:Assembly - FL,4,0,4,,1/13/2021,DIM: Dimensional,INDUSTRIAL:Finished Assy,DIM
+16255,FABET12APX1,81685,,INDUSTRIAL:Assembly - FL,77,77,0,,1/13/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16257,FABET12APX2,81818,,INDUSTRIAL:Assembly - FL,40,0,40,,1/13/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16258,FABET12APX1,81685,,INDUSTRIAL:Assembly - FL,77,0,77,,1/13/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16295,FASTO19AU1,81826,,INDUSTRIAL:Assembly - FL,29,0,29,,1/27/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16330,FADES15MU1,82021,,INDUSTRIAL:Assembly - FL,3,0,3,,2/9/2021,OTH: Other,INDUSTRIAL:Finished Assy,OTH
+16338,FASTO19AU1,82036,,INDUSTRIAL:Assembly - FL,70,0,70,,2/8/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16360,FABET12ACY1,82211,82211,INDUSTRIAL:Assembly - FL,3,0,3,MTM11,3/3/2021,DIM: Dimensional,INDUSTRIAL:Finished Assy,DIM
+16367,FABET12APX3,82386,,INDUSTRIAL:Assembly - FL,2,0,2,,3/10/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16381,FANAT21AU1,82241,,INDUSTRIAL:Assembly - FL,2,0,2,,3/15/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16389,FADES15CU5,82191,,INDUSTRIAL:Assembly - FL,2,0,2,,3/18/2021,COS: Rust,INDUSTRIAL:Finished Assy,COS
+16442,FAGEN23AZ1,81909,,INDUSTRIAL:Assembly - FL,1,0,1,,4/9/2021,OTH: Material/Sub-component,INDUSTRIAL:Finished Assy,OTH
+16469,FABET12APX2,82618,,INDUSTRIAL:Assembly - FL,32,0,32,,4/27/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16477,FABET12APX2,82756,,INDUSTRIAL:Assembly - FL,24,0,24,,4/30/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16478,FAVIS12AU1,82808,,INDUSTRIAL:Assembly - FL,22,0,22,,4/30/2021,"DIM: Swage, Length/Form",INDUSTRIAL:Finished Assy,DIM
+16480,FABET12APX1,82616,,INDUSTRIAL:Assembly - FL,14,0,14,,5/4/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16513,FAGEN13AX1,82119,,INDUSTRIAL:Assembly - FL,8,0,8,,5/14/2021,DIM: Thread,INDUSTRIAL:Finished Assy,DIM
+16519,FAROL11GZ1-P01,,81213,INDUSTRIAL:Assembly - FL,1,0,1,,5/24/2021,"DIM: Swage, Length/Form",INDUSTRIAL:Finished Assy,DIM
+16552,FACOZ11CU1,,83078,INDUSTRIAL:Assembly - FL,20,0,20,,6/11/2021,COS: Rust,INDUSTRIAL:Finished Assy,COS
+16563,FACOZ11CU1,83078,,INDUSTRIAL:Assembly - FL,48,0,48,,6/17/2021,COS: Rust,INDUSTRIAL:Finished Assy,COS
+16591,FASSW191X1,83239,,INDUSTRIAL:Assembly - FL,1,0,1,,6/30/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16593,FAUSG12WX1,82459,,INDUSTRIAL:Assembly - FL,5,0,5,,7/1/2021,OTH: Other,INDUSTRIAL:Finished Assy,OTH
+16612,FABET12ACY1,82669,,INDUSTRIAL:Assembly - FL,250,250,0,,7/8/2021,OTH: Other,INDUSTRIAL:Finished Assy,OTH
+16630,FACOZ11CU1,83078,,INDUSTRIAL:Assembly - FL,20,0,20,,8/2/2021,COS: Rust,INDUSTRIAL:Finished Assy,COS
+16666,FAMIC17AU2,83449,,INDUSTRIAL:Assembly - FL,25,0,25,,8/6/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Finished Assy,COS
+16285,FB104,,20200320,INDUSTRIAL:Fittings - FL,49,0,49,,1/13/2021,OTH: Other,INDUSTRIAL:Flex Misc,OTH
+16468,FACOM11AU1,82814,,FLEX: All Others,1,0,1,,4/27/2021,DIM: Dimensional,INDUSTRIAL:Flex Misc,DIM
+16533,FM193,83016,,INDUSTRIAL:Fittings - FL,50,50,0,,5/27/2021,COS: Discoloration,INDUSTRIAL:Flex Misc,COS
+16597,FB104,83214,20210212,INDUSTRIAL:Fittings - FL,10,0,10,,6/30/2021,DIM: Dimensional,INDUSTRIAL:Flex Misc,DIM
+16677,FASER11AU2,83591,,INDUSTRIAL:Assembly - FL,2,2,0,,8/18/2021,"COS: Wires, Open/Raised/Broken",INDUSTRIAL:Flex Misc,COS
+16731,FSPR104,,80965,INDUSTRIAL:Fittings - FL,87,0,0,,9/17/2021,COS: Discoloration,INDUSTRIAL:Flex Misc,COS
+16732,FSPR104,,80965,INDUSTRIAL:Fittings - FL,100,0,0,,9/21/2021,COS: Discoloration,INDUSTRIAL:Flex Misc,COS
+16733,FSPR104,,82992,INDUSTRIAL:Fittings - FL,157,0,0,,9/21/2021,COS: Discoloration,INDUSTRIAL:Flex Misc,COS
+16683,FT1311,,20210820,INDUSTRIAL:Fittings - SN,5859,5859,0,SSW15,8/25/2021,VEN: Vendor Issue,INDUSTRIAL:Metal Fittings,VEN
+16695,FT612,,82632,INDUSTRIAL:Fittings - SN,57,0,57,,8/24/2021,COS: Rust,INDUSTRIAL:Metal Fittings,COS
+16716,FN178,,20210910,INDUSTRIAL:Fittings - SN,736,736,0,,9/13/2021,COS: Rust,INDUSTRIAL:Metal Fittings,COS
+16347,FAOLY12AU2,82052,,MEDICAL: Top Level,10,10,0,,2/24/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Bulk Shaft,COS
+16354,FAOLY12AU2,82052,,MEDICAL: Top Level,28,28,0,,2/25/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Bulk Shaft,COS
+16235,FAULT11BU2,81481,,MEDICAL: Top Level,91,0,91,,1/5/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16299,FAMED13AU1,81593,,MEDICAL: Top Level,31,0,31,,1/25/2021,FUN: TTR/DTTR,MEDICAL:Finished Assy,FUN
+16300,FAMED13AU1,81593,,MEDICAL: Top Level,74,0,74,,1/26/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16301,FAMED49AU3-P01,81852,,MEDICAL: Top Level,10,0,10,,1/28/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16302,FAMED49AU4-P01,81853,,MEDICAL: Top Level,4,0,4,,1/27/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16303,FAMED49AU5-P01,81844,,MEDICAL: Top Level,14,0,14,,1/27/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16317,FAPEN20CU1,81923,,MEDICAL: Top Level,394,394,0,,2/3/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16326,FAPEN20CU1,81923,,MEDICAL: Top Level,538,538,0,,2/8/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16335,FAOTH11DU1,81624,,MEDICAL: Top Level,61,0,61,,2/17/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16349,FAPEN20CU1,0081923R1,,MEDICAL: Top Level,10,0,10,,2/25/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16350,FAMED13AU1,82003,,MEDICAL: Top Level,26,0,26,,2/24/2021,FUN: TTR/DTTR,MEDICAL:Finished Assy,FUN
+16353,FAHOW11DX1,81678,,MEDICAL: Top Level,1,0,1,,2/25/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16364,FAPEN20CU1,,78342,MEDICAL: Top Level,8,0,8,,3/8/2021,OTH: Other,MEDICAL:Finished Assy,OTH
+16365,FAPEN20CU1,,79338,MEDICAL: Top Level,2,0,2,,3/8/2021,OTH: Other,MEDICAL:Finished Assy,OTH
+16368,FAVEO11BU1,82172,,MEDICAL: Top Level,22,0,22,,3/5/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16380,FAPEN20CU1,82204,,MEDICAL: Top Level,43,0,43,,3/12/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16384,FAOTH11DU1,,81351,MEDICAL: Top Level,7,0,7,,3/18/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16387,FAULT11BU2,,81481,MEDICAL: Top Level,25,0,25,,3/18/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16412,FAOTH11DU1,82428,,MEDICAL: Top Level,25,0,25,,3/26/2021,DIM: Dimensional,MEDICAL:Finished Assy,DIM
+16441,FAPEN20CU1,82410,,MEDICAL: Top Level,90,0,90,,4/9/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16488,FARIC11BU1,82771,,MEDICAL: Top Level,250,100,150,,5/11/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16517,FAOTH11DU1,,81624,MEDICAL: Top Level,33,0,33,,5/25/2021,FUN: Other,MEDICAL:Finished Assy,FUN
+16554,FAMED16BX1,82678,,MEDICAL: Top Level,1,0,1,,6/11/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16562,FAOTH11DU1,,82428,MEDICAL: Top Level,4,0,4,,6/22/2021,COS: Discoloration,MEDICAL:Finished Assy,COS
+16565,FAPEN20CU1,82843,,MEDICAL: Top Level,48,0,48,,6/24/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16581,FAPEN20CU1,82863,,MEDICAL: Top Level,35,0,35,,6/23/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16582,FAPEN20CU1,82863,,MEDICAL: Top Level,4,0,4,,6/23/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16585,FAPEN20CU1,82843,,MEDICAL: Top Level,48,0,48,,6/29/2021,COS: Scratches/Dents,MEDICAL:Finished Assy,COS
+16600,FAPEN20CU1,82863,,MEDICAL: Top Level,16,0,16,,7/2/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16601,FAPEN20CU1,82863,,MEDICAL: Top Level,25,0,25,,7/2/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16619,FAPEN20CU1,82863,,MEDICAL: Top Level,7,0,7,,7/16/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16620,FAPEN20CU1,83332,,MEDICAL: Top Level,11,0,11,,7/16/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16623,FARIC11BU1,,82615,MEDICAL: Top Level,30,0,30,,7/19/2021,OTH: Re-inspect Inventory,MEDICAL:Finished Assy,OTH
+16634,FAPEN20CU1,83332,,MEDICAL: Top Level,17,0,17,,7/30/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16665,FARIC11BU1,83488,,MEDICAL: Top Level,6,0,6,,8/6/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16667,FAOTH11EU2,83411,,MEDICAL: Top Level,300,300,0,,8/6/2021,"COS: Wires, Open/Raised/Broken",MEDICAL:Finished Assy,COS
+16681,FABIO16TX1,,81891,MEDICAL: Top Level,552,552,0,,8/10/2021,COS: Scratches/Dents,MEDICAL:Finished Assy,COS
+16682,FABIO16TX1,,81891,MEDICAL: Top Level,10,10,0,,8/10/2021,COS: Scratches/Dents,MEDICAL:Finished Assy,COS
+16539,FE1308,82956,,FLEX: All Others,3,0,3,,5/17/2021,DIM: Dimensional,MEDICAL:Flex Misc,DIM
+16283,FS130S25A,,0081859-1,BULK: Shaft,460,0,460,,1/25/2021,FUN: Proof Load,OTHER:Bulk Shaft,FUN
+16328,FS130K21CQ,,0079839-2,BULK: Shaft,1480,0,1480,,2/10/2021,OTH: Packing/Shipping Issue,OTHER:Bulk Shaft,OTH
+16411,FS097RC151A,,0081790-1,BULK: Shaft,6595,0,6595,,4/1/2021,FUN: Deflection,OTHER:Bulk Shaft,FUN
+16423,FS308S48C,78380,0080495-2,BULK: Shaft,60,0,60,,3/31/2021,FUN: TTR/DTTR,OTHER:Bulk Shaft,FUN
+16429,FS130K21CQ,,0081791-2,BULK: Shaft,3800,0,3800,SSW13,4/5/2021,OTH: Other,OTHER:Bulk Shaft,OTH
+16580,FS150PQ26C,,0082664-1,BULK: Shaft,1224,0,1224,,6/28/2021,FUN: TTR/DTTR,OTHER:Bulk Shaft,FUN
+16633,FS185M361A,,0080497-1FAHYU11AX1,BULK: Shaft,1080,0,1080,,8/3/2021,DIM: Dimensional,OTHER:Bulk Shaft,DIM
+16635,FS372K58C,,0078712-7,BULK: Shaft,1644,1644,0,,7/30/2021,FUN: Deflection,OTHER:Bulk Shaft,FUN
+16637,FSM079S7-55C,,0080353-1,BULK: Shaft,1524,0,1524,,8/5/2021,"COS: Wires, Open/Raised/Broken",OTHER:Bulk Shaft,COS
+16676,FS372K58C,,0078712-7,BULK: Shaft,1644,0,1644,,8/17/2021,FUN: Deflection,OTHER:Bulk Shaft,FUN
+16747,FS308K49C,,0080438-2,BULK: Shaft,594,594,0,SSW13,9/28/2021,"DIM: Shaft/Casing, Length",OTHER:Bulk Shaft,DIM
+16322,FE473,79963,20200721,INDUSTRIAL:Fittings - SN,39,39,0,,2/3/2021,DIM: Dimensional,OTHER:Metal Fittings,DIM
+16323,FE472,79963,20200729,INDUSTRIAL:Fittings - SN,36,36,0,,2/3/2021,DIM: Dimensional,OTHER:Metal Fittings,DIM
+16372,FE255,,79833,INDUSTRIAL:Fittings - SN,215,0,215,,3/5/2021,COS: Rust,OTHER:Metal Fittings,COS
+16457,FE453,,73024,INDUSTRIAL:Fittings - SN,103,103,0,,4/19/2021,COS: Discoloration,OTHER:Metal Fittings,COS
+16489,FE366X,,71491,INDUSTRIAL:Fittings - FL,8,0,8,,4/26/2021,COS: Rust,OTHER:Metal Fittings,COS
+16532,FT729DF,82468,82468,INDUSTRIAL:Fittings - FL,33,33,0,,5/26/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16535,FE453,,0073024R1,INDUSTRIAL:Fittings - SN,90,90,0,HOH11,6/2/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16540,FE453X,82766,,INDUSTRIAL:Fittings - FL,3,0,3,,5/19/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16575,FE1217,83141,,INDUSTRIAL:Fittings - SN,4,0,4,,6/25/2021,DIM: Dimensional,OTHER:Metal Fittings,DIM
+16594,FE453X,,74847,INDUSTRIAL:Fittings - FL,4,0,4,,4/19/2021,COS: Discoloration,OTHER:Metal Fittings,COS
+16595,FE453X,,82766,INDUSTRIAL:Fittings - FL,6,0,6,,6/2/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16596,FE453Y,,74848,INDUSTRIAL:Fittings - FL,4,0,4,,6/2/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16636,FB276-B,83466,,INDUSTRIAL:Fittings - SN,1,0,1,,8/2/2021,COS: Scratches/Dents,OTHER:Metal Fittings,COS
+16663,FE462,,TR-START,INDUSTRIAL:Fittings - SN,22,22,0,,8/6/2021,DIM: Thread,OTHER:Metal Fittings,DIM
+16664,FE462,,TR-START,INDUSTRIAL:Fittings - SN,24,24,0,,8/6/2021,DIM: Thread,OTHER:Metal Fittings,DIM
+16679,FF723,,56655,INDUSTRIAL:Fittings - SN,10,0,10,,8/9/2021,COS: Rust,OTHER:Metal Fittings,COS
+16714,FE178,83535,,READYFLEX:Component: SN,1304,1304,0,,9/14/2021,COS: Rust,OTHER:Metal Fittings,COS
+16727,FT1459,83457,74969,MEDICAL:Fittings - SN,1,0,1,,8/17/2021,OTH: Other,OTHER:Metal Fittings,OTH
+16728,FT1459,,79832,MEDICAL:Fittings - SN,123,123,0,,8/17/2021,OTH: Other,OTHER:Metal Fittings,OTH
+16729,FT1459,83457,79832,MEDICAL:Fittings - SN,635,635,0,,8/17/2021,OTH: Other,OTHER:Metal Fittings,OTH
+16739,FT612Y,,83654,INDUSTRIAL:Fittings - FL,30,30,0,,9/29/2021,COS: Rust,OTHER:Metal Fittings,COS
+16740,FT612Y,,82590,INDUSTRIAL:Fittings - FL,10,10,0,,9/29/2021,COS: Rust,OTHER:Metal Fittings,COS
+16329,FWM041PB51,,20200901,BULK: Shaft Wire,52,0,52,RAD11,2/10/2021,Scrap: Broken/Damaged,OTHER:Shaft Wire,Scr
+16315,FR312SMRCC04800,82051,,READYFLEX: Assembly,1,1,0,,2/3/2021,COS: Scratches/Dents,READYFLEX:Finished Assy,COS
+16316,FR250SMRAD07200,82012,,READYFLEX: Assembly,2,2,0,,2/3/2021,COS: Scratches/Dents,READYFLEX:Finished Assy,COS
+16337,HC106,81266,,INDUSTRIAL:Assembly - FL,8,0,8,,2/11/2021,COS: Scratches/Dents,READYFLEX:Finished Assy,COS
+16610,FG118W2,83307,,READYFLEX: Assembly,5,5,0,,7/12/2021,MAR: Marking/Labeling,READYFLEX:Finished Assy,MAR
+16697,FR250SMRAD11200,,82866,READYFLEX: Assembly,1,0,1,,9/1/2021,COS: Scratches/Dents,READYFLEX:Finished Assy,COS
+16720,FG116X,83898,,READYFLEX: Assembly,1,0,1,,9/14/2021,MAR: Marking/Labeling,READYFLEX:Finished Assy,MAR
+16723,HC106,,,INDUSTRIAL:Assembly - FL,2,0,2,,9/17/2021,COS: Scratches/Dents,READYFLEX:Finished Assy,COS
