@@ -13,3 +13,4 @@ dependencies:
   - dask
   - yfinance
   - ta
+  - backtesting
