@@ -13,4 +13,4 @@ dependencies:
   - dask
   - yfinance
   - ta
-  - backtesting
+  - scipy
