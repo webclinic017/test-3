@@ -15,4 +15,3 @@ dependencies:
   - ta
   - scipy
   - plotly
-  - mpl_finance
